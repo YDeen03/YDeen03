@@ -44,7 +44,7 @@ Neurosurgeons and scientists in Switzerland have come together to create a Bluet
 
 Mobile: 07305766509 
 
-LinkedIn: 07305766509 
+LinkedIn: https://www.linkedin.com/in/yousuf-deen-931755235 
 
 Email Address: fakher464@yahoo.com (former last name) 
 
