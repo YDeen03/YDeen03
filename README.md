@@ -1,10 +1,10 @@
 <h1>Hi I am Yousuf, Welcome to my page!<br/><a href="https://github.com/YDeen03">Aspiring Software Developer, seeking apprenticeship opportunity</a></h1>
 
-<h2>My Software Development Projects and Skills:</h2>
-
-- <b>Python</b>
+-<h2>My Software Development Projects and Skills:</h2>
+  - [Christmas Stock System in Python with SQLite commands used, demonstrating database design](https://github.com/YDeen03/Christmas_Shop_system)
+  - [Python Fighting Game Immortal Combat demonstrating attempted use of Cloud-based gaming and AI Behaviour](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  
 <h2>About me:</h2>
 
 
