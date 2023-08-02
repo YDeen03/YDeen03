@@ -10,6 +10,15 @@
   
 <h2>About me:</h2>
 
+I am a motivated individual who can adapt to the environment I work to ensure, that will require different skills in which I am capable of learning easily in order for me to push beyond my limits. I am proficient in programming in a variety of languages, mainly Python, SQLite but also including HTML, Javascript, C# and Haskell 
+
+ 
+
+All my life, I have had such a burning passion and desire for the world of technology and the digital world in general, how our technology and evolved and how it functions ranging from something as simple as a small numerical calculator to something as complex as a large electric aircraft, there has been no limits to my passion and sense for discovery and innovation, I love the world we live in due to the many benefits provided by great entrepreneurs and thinkers, I want to be a part of that innovation too and I see this role as not only an opportunity but a favour to myself and the rest of the technological world as we strive to use and improve techonology on a daily basis. Along with my previous studies in education, I know I need to take this burning curiousity further and enhance myself beyond my limits. 
+
+ 
+
+An apprenticeship is a much more appealing way of education for me as it combines the aspects of regular work with learning, an apprenticeship allows me to earn a salary while learning and this can better suit my circumstances. Furthermore, a more hands-on can better enhance my ability to learn and develop my skills and refine any sort of individual weaknesses as well as doing well for the company and working
 
 
 
