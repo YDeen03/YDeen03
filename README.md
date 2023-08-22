@@ -1,6 +1,6 @@
 <h1>Hi I am Yousuf, Welcome to my page!<br/><a href="https://github.com/YDeen03">Aspiring Software Developer, seeking apprenticeship opportunity</a></h1>
 
--<h2>My Software Development Projects and Skills:</h2>
+-<h2>My Software Development Projects:</h2>
 
   - [Christmas Stock System in Python with SQLite commands used, demonstrating database design](https://github.com/YDeen03/Christmas_Shop_system)
     
